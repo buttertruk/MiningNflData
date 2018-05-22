@@ -5,11 +5,15 @@ The current cluster algorithm works only for running backs. The classify algorit
 
 ## To install and run, you need to following:
 
-'''
+```
 python version 2.7+
+```
+```
 bokeh (python library, can be installed using pip)
+```
+```
 nfldb (python library, can be installed using pip)
-'''
+```
 
 ### Note:
 
